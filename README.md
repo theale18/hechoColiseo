@@ -1,4 +1,5 @@
 # El Coliseo 
+by gonzager
  
 ## Clases 
 ![Coliseo](https://thumbs.dreamstime.com/t/dibujo-del-coliseo-ejemplo-de-colosseum-en-roma-italia-65506949.jpg)
